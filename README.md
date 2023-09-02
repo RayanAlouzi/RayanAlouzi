@@ -2,7 +2,8 @@
 * 🌱 Currently completing a Computer Science with Specialization Degree at the University of Alberta 
 * 📫 How to reach me: https://www.linkedin.com/in/rayan-alouzi-a71a191a6/ or email rayanbassam3@gmail.com
 * 📖 Learning JS to create a portfolio page
-* 📖 Learning git to have better workflow in a team
+* 📚 Learning git to have better workflow in a team
+* 👨‍💼 Always open for internship opportunities
 <!--
 **RayanAlouzi/RayanAlouzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
