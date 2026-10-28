@@ -2,12 +2,6 @@
 
 BSc Computer Science grad from the **University of Alberta**, based in **Edmonton, AB**. I like turning messy data into something people can actually use, and I'm looking for **data analyst** roles.
 
-## What I'm up to
-
-- 🧹 Building a [data cleaning practice](https://github.com/RayanAlouzi/data-cleaning-practice) repo: real messy datasets, cleaning steps, and notes on what went wrong and how I fixed it
-- 📊 Going deep on **Excel, SQL, and Power BI**, with every project built in those three tools
-- 🎮 Side projects on the fun end, like rebuilding old browser games
-
 ## Experience
 
 | Role | Where | When |
